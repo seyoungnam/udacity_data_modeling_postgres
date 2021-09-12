@@ -1,4 +1,15 @@
+# PROJECT 1: Data Modeling with Postgres
 
+## About The Project
+
+- Author: Seyoung Nam
+- E-mail: seyoung.nam@gmail.com
+- Date: 2021-08-10
+- Purpose: Define fact and dimension tables for a star schema for a particular analytic focus, and write an ETL pipeline that transfers data from files in two local directories into these tables in Postgres using Python and SQL
+- Technologies: Python, PostgreSQL
+- This project is a part of <a href="https://www.udacity.com/course/data-engineer-nanodegree--nd027" target="_blank">Udacity's Data Engineering Nanodegree Program</a>.
+
+<br>
 
 ### 1. How to run the Python scripts
 
